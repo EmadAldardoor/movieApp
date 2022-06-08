@@ -1,0 +1,7 @@
+{
+    "name": "MovieApp",
+    "displayName": "MovieApp",
+    "apiUrl": "https://api.themoviedb.org/3/",
+    "apiKey": "a531b8aedefc4f260e0a74e88e6f86a0",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/"
+}
